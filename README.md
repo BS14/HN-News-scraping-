@@ -16,3 +16,4 @@ Automatically scrap the headlines from hackernews and email the content
 - datetime (default)
 
 # Steps installing required packages 
+$ pip install bueatifulsoup4 
